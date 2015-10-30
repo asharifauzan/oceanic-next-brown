@@ -1,9 +1,9 @@
 {
-  "name": "oceanic-next",
+  "name": "oceanic-next-gray",
   "theme": "syntax",
   "version": "0.1.2",
-  "description": "Based on the Sublime Text theme",
-  "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
+  "description": "Based on the Sublime Text theme (with grays instead of blues)",
+  "repository": "https://github.com/lamogura/oceanic-next-gray.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
